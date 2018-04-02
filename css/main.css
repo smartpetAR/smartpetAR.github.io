@@ -1,0 +1,64 @@
+@font-face{
+    font-family: "A";
+    src: url(HarmoniaSansProCyr-Black.otf);
+}
+
+@font-face{
+    font-family: "B";
+    src: url(HarmoniaSansProCyr-BlackItalic.otf);
+}
+
+@font-face{
+    font-family: "C";
+    src: url(HarmoniaSansProCyr-Bold.otf);
+}
+
+@font-face{
+    font-family: "D";
+    src: url(HarmoniaSansProCyr-BoldCond.otf);
+}
+
+@font-face{
+    font-family: "E";
+    src: url(HarmoniaSansProCyr-BoldItalic.otf);
+}
+
+@font-face{
+    font-family: "F";
+    src: url(HarmoniaSansProCyr-Cond.otf);
+}
+    
+@font-face{
+    font-family: "G";
+    src: url(HarmoniaSansProCyr-Italic.otf);
+}
+    
+@font-face{
+    font-family: "H";
+    src: url( HarmoniaSansProCyr-Light.otf);
+}
+    
+@font-face{
+    font-family: "I";
+    src: url(HarmoniaSansProCyr-LightItalic.otf);
+}
+    
+@font-face{
+    font-family: "J";
+    src: url(HarmoniaSansProCyr-Regular.otf);
+}
+    
+@font-face{
+    font-family: "K";
+    src: url(HarmoniaSansProCyr-SemiBd.otf);
+}
+    
+@font-face{
+    font-family: "L";
+    src: url(HarmoniaSansProCyr-SemiBdCn.otf);
+}
+    
+@font-face{
+    font-family: "M";
+    src: url(HarmoniaSansProCyr-SemiBdIt.otf);
+}
